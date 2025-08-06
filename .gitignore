@@ -1,0 +1,8 @@
+venv/
+.venv/
+__pycache__/
+*.pt
+*.onnx
+*.pkl
+*.h5
+.env
